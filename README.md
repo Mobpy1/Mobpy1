@@ -29,12 +29,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mobpy1/Mobpy1/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/vhy81748auno06j24w0io8oll">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=vhy81748auno06j24w0io8oll&count=5" alt="Spotify recently played"  />
